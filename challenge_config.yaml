@@ -77,7 +77,7 @@ challenge_phases:
         is_visible: True
     is_restricted_to_select_one_submission: False
     is_partial_submission_evaluation_enabled: False
-    allowed_submission_file_types: ".csv"
+#     allowed_submission_file_types: ".csv"
 
 dataset_splits:
   - id: 1
